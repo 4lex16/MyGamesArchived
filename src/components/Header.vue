@@ -38,7 +38,7 @@
         text-decoration: underline;
     }
 
-    nav {
+    header > nav {
         margin-right: 20px;
     }
 </style>
